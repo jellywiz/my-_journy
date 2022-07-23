@@ -1,5 +1,5 @@
 body{
-    background-color: #BBDED6;
+    background-color: #DFF4F3;
   }
   hr{
     border-style: none;
@@ -8,4 +8,15 @@ body{
     border-width: 5px;
     border-color: grey;
 
+  }
+
+  h1{
+    color: #66BFBF;
+    background-color: whitesmoke;
+    text-align: center;
+  }
+
+  h3{
+    color: #66BFBF;
+    font-style: inherit;
   }
