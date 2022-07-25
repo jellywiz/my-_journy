@@ -1,13 +1,26 @@
 body{
     margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
 }
 
 h1{
-    margin-top: 0;
+    margin-top: 0px;
+    font-family: 'Sacramento', cursive;
+}
+
+h2{
+    font-family: 'Montserrat', sans-serif;
+}
+
+h3{
+    font-family: 'Montserrat', sans-serif;
 }
 
 .top-container{
-    background-color: #FCF9C6;
+    background-color: #BDE6F1;
+    position: relative;
+    padding-top: 200px;
 }
 
 .middle-container{
@@ -25,4 +38,20 @@ h1{
     border: solid 10px;
     margin-left: 500px;
     
+}
+
+.top-cloud{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+
+.bottom-cloud{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;;
+}
+
+.mountain{
+    position: relative;
 }
