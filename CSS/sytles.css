@@ -1,5 +1,8 @@
 body{
     background-color: #DFF4F3;
+    text-align: center;
+    margin-left: 0;
+    margin-top: 0;
   }
   hr{
     border-style: none;
@@ -20,4 +23,35 @@ body{
     font-style: inherit;
   }
 
-  
+table{
+  margin: auto;
+}
+
+ul {
+  list-style-position: inside;
+}
+li{
+  list-style-type: none;
+}
+
+.top{
+  background-color: #00D7FF;
+  padding-bottom: 30px;
+  padding-top: 40px;
+}
+
+.container{
+  padding-right: 30px;
+}
+
+.edu{
+  font-size: 150%;
+  width: 500px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: 30px;
+}
+
+.links{
+  padding-right: 30px;
+}
