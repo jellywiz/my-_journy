@@ -37,6 +37,12 @@ a{
     bottom: 3rem;
 }
 
+.bear-img2{
+    width: 15%;
+    position: relative;
+    right: 20%;
+}
+
 .div2{
     margin: 50px;
 }
