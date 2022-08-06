@@ -38,6 +38,7 @@ hr{
     font-family: 'Montserrat', sans-serif;
     margin: 10px 20px;
     text-decoration: none;
+    cursor: pointer;
 }
 
 a:hover{
